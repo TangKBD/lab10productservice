@@ -1,4 +1,4 @@
-package com.sop.chapter7.productservice.rest;
+package com.sop.chapter7.productservice.Command.rest;
 
 import lombok.Data;
 
